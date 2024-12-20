@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9345D153-986E-4ACE-8F73-E774AB7F010A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64CDA364-143F-479F-BF75-93F87D2F8E4C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TodoList/tareas/TareasViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F21F02AF-4FF2-46A9-9275-95F10F53850A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TodoList/tareas/RegistrarTareaViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "guardarTarea(nombre:descripcion:fecha:prioridad:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F21F02AF-4FF2-46A9-9275-95F10F53850A - 4cec2bde00ea8e6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TodoList.RegistrarTareaViewController.guardarTarea(nombre: Swift.String, descripcion: Swift.String, fecha: Foundation.Date, prioridad: Swift.String) -&gt; ()"
+                  moduleName = "TodoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damii/Documents/To_do_list/TodoList/TodoList/tareas/RegistrarTareaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "2712">
+               </Location>
+               <Location
+                  uuid = "F21F02AF-4FF2-46A9-9275-95F10F53850A - 4cec2bde00ea8e6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TodoList.RegistrarTareaViewController.guardarTarea(nombre: Swift.String, descripcion: Swift.String, fecha: Foundation.Date, prioridad: Swift.String) -&gt; ()"
+                  moduleName = "TodoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damii/Documents/To_do_list/TodoList/TodoList/tareas/RegistrarTareaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "2600">
+               </Location>
+               <Location
+                  uuid = "F21F02AF-4FF2-46A9-9275-95F10F53850A - 8f9c6c7d397959d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TodoList.RegistrarTareaViewController.guardarTarea(nombre: Swift.String, descripcion: Swift.String, fecha: Foundation.Date, prioridad: Swift.String) -&gt; ()"
+                  moduleName = "TodoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damii/Desktop/Fernando/proyecto/To_do_list/TodoList/TodoList/tareas/RegistrarTareaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "2600">
+               </Location>
+               <Location
+                  uuid = "F21F02AF-4FF2-46A9-9275-95F10F53850A - e0125785fb1f579a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TodoList.RegistrarTareaViewController.guardarTarea(nombre: Swift.String, descripcion: Swift.String, fecha: Foundation.Date, prioridad: Swift.String) -&gt; ()"
+                  moduleName = "TodoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damii/Desktop/Fernadno%20Axel/To_do_list/TodoList/TodoList/tareas/RegistrarTareaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "2600">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C2ADC30-FE0A-41C7-85B2-5322ECCB84AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TodoList/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "LoginViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
